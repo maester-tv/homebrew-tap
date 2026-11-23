@@ -1,6 +1,6 @@
 cask "raven" do
-  version "0.9.0"
-  sha256 "7d27ad29c9c2831ad1d37291d3e6a12f982da9550ce658faa8d1b4a4378fa68c"
+  version "0.9.1"
+  sha256 "c25e362da240c43e5d735c5b370114180d7cef6b3e0d7008e3de6513059617d3"
 
   url "https://github.com/codebend3r/maester/releases/download/v#{version}/raven-player-#{version}-arm64.dmg"
   name "Raven"
